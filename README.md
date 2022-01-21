@@ -12,7 +12,7 @@ Entre outros...
 </p>
 
 ## Project description
-<p align="justify">asic Java projects including:
+<p align="justify">Basic Java projects including:
 Converting Numbers to String.
 Temperature Conversion.
 Area Arithmetic Calculations.
