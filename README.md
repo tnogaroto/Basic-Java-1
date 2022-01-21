@@ -1,4 +1,4 @@
-<h1 align="center">Exemplos Básicos em Java</h1>
+<h1 align="justify">Exemplos Básicos em Java</h1>
 <h3 align="left">Basic examples in Java</h3>
 
 ## Descrição do Projeto
